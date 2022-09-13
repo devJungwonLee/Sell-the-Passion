@@ -1,4 +1,4 @@
-# Sell the Passion
+# [Sell the Passion](https://devjungwonlee.notion.site/Sell-the-Passion-171ab27587cf4d3f9ba53a9fb8ab643f)
 <img height="500" src="http://cscp2.sogang.ac.kr/CSE4187/CSE4187/UserData/3%EC%A1%B0_Go-Getter_main_image.png"></img>
 ## 프로젝트 소개
 자신이 설정한 목표를 사진을 통해 인증하고, 1대1로 매칭된 다른 사용자로부터 달성 과정에 대한 피드백과 평가를 받을 수 있는 목표 관리 애플리케이션입니다.
